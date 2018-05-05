@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "org.MS.Moviefy"
+        versionCode = "1"
+        version     = "1.0.0" >
+
+    <name>Moviefy</name>
+
+    <description>
+       An app to search latest movies
+    </description>
+
+    <author href="" email="trojanhorse23pub@gmail.com">
+        Mink Shree and Samarth
+    </author>
+
+    <preference name = "orientation" value = "portrait" />
+
+</widget>
